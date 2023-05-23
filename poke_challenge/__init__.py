@@ -3,14 +3,16 @@
 
     2. Store the data in SQLite3
 
-    3. Query the count of pokemon per type e.g.
+    3. Print all the rows
+
+    4. Query the count of pokemon per type e.g.
     type      |   count
     -----------------------
     Fire      |   3
     Water     |   2
     Normal    |   4
 
-    4. Save a json file in output with the result e.g.
+    5. Save a json file in output with the result e.g.
     {
       "Fire": 3,
       "Water": 2,

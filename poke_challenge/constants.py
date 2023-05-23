@@ -13,6 +13,7 @@ CREATE TABLE pokemon_types (
 );
 """
 
+# Docs https://pokeapi.co/
 BASE_API_URL = "https://pokeapi.co/api/v2"
 
 
