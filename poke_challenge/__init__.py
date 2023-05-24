@@ -8,6 +8,7 @@
     --------------------------
     bulbasaur       |   grass
     bulbasaur       |   poison
+    charmander      |   fire
 
     3. Print all the rows
 
@@ -43,7 +44,7 @@ async def main():
     CREATE TABLE pokemon_types (
         id              INTEGER PRIMARY KEY AUTOINCREMENT,
         pokemon_name    VARCHAR,
-        type            VARCHAR
+        pokemon_type    VARCHAR
     );
     """
     )
